@@ -1,0 +1,10 @@
+sys
+colorama
+pystyle
+requests
+bs4
+os
+webbrowser
+faker
+ctypes
+threading
